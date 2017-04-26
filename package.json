@@ -1,5 +1,5 @@
 {
-  "name": "react-native-photos-framework",
+  "name": "@drivetribe/react-native-photos-framework",
   "repository": {
     "type": "git",
     "url": "https://github.com/olofd/react-native-photos-framework.git"
